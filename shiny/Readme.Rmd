@@ -1,0 +1,17 @@
+---
+title: "Apptest"
+output: html_document
+---
+
+
+## Coursera Data Science Capstone
+
+This app represents my submission for the Johns Hopkins Data Science Coursera Capstone project.  In this project, I used the R language, data mining methods, and programing to analyze blog, news, and twitter samples to develop a next word predictive algorithm. 
+
+## Twitter, News, and Blog Data
+
+4,269,678 lines and 102,396,964 words were used to construct the predictive algorithm.  The final algorithm was based on a 9% random sample of this data.
+
+## N-Grams Method
+
+Bigrams (2-word combination), Trigrams (3-word combination), and Tetragrams (3-word combination) were generated from the sampled data.  The N-Grams were analyzed to determine the most statisticaly probable outputs for a given text input.  Tetragrams are first used for prediction.  If the Tetragram model is unable to determine a prediction, Trigram, and Bigram models are then used.

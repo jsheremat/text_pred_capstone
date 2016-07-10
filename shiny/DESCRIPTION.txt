@@ -1,0 +1,1 @@
+Title: Hello Shiny!Author: RStudio, Inc.AuthorUrl:Êhttp://www.rstudio.com/License: GPL-3DisplayMode: ShowcaseTags: getting-startedType: Shiny
